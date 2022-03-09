@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sotibob Sotonte Bob-manuel
 - 👀 I’m interested in object oriented programming and web development
-- 🌱 I’m currently learning C# for game development, Flutter, Nodejs and React
-- 💞️ I’m looking to collaborate on Web developing, java and C# projects
+- 🌱 I’m currently learning Flutter, Java, and Web Development
+- 💞️ I’m looking to collaborate on Web, java, and C# projects
 - 📫 How to reach me: soticology@gmail.com or sotibob@gmail.com
 
 <!---
